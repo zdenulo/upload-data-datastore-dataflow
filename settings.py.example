@@ -1,0 +1,10 @@
+
+# Google Cloud Project ID
+PROJECT = ''
+
+# Google Cloud Storage bucket where input filename is and which will be used for Dataflow job
+BUCKET = ''
+
+# name of the input file in GCS
+# INPUT_FILENAME = 'sample.csv'
+
